@@ -84,6 +84,10 @@ If your main Python file has a different name, replace `app.py` with that filena
 
 Do not commit API keys, `.env` files, private videos, or sensitive data.
 
+## Dashboard Preview
+
+![VideoSense AI Dashboard](videosense-dashboard.png)
+
 ## Author
 
 Shambhavi Shrivastava
