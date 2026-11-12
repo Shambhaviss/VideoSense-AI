@@ -6,6 +6,10 @@ VideoSense AI is a video intelligence and analytics dashboard built with **Strea
 
 The application provides an interactive dashboard for exploring object distributions, activity over time, annotated video frames, and AI-assisted questions about video analysis results.
 
+## Application Dashboard
+
+![Dashboard](videosense-dashboard.png)
+
 ## Features
 
 - **Video Upload & Processing:** Upload a video and analyze it using the YOLO11 object detection model.
